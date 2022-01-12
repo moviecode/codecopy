@@ -2,7 +2,7 @@ package fun.gengzi.codecopy.java8.lamdba.time;
 
 import org.junit.jupiter.api.Test;
 import org.junit.platform.commons.util.StringUtils;
-import scala.collection.immutable.$colon$colon;
+//import scala.collection.immutable.$colon$colon;
 
 import java.sql.Date;
 import java.time.*;

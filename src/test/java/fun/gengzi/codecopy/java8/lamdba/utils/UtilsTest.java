@@ -4,7 +4,7 @@ import fun.gengzi.codecopy.utils.JsonUtils;
 import io.swagger.models.auth.In;
 import oracle.ucp.proxy.annotation.Pre;
 import org.junit.jupiter.api.Test;
-import scala.collection.immutable.Stream;
+//import scala.collection.immutable.Stream;
 
 import java.util.*;
 import java.util.function.Consumer;
